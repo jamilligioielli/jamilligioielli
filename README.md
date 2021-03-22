@@ -8,5 +8,9 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jamilligioielli&theme=buefy"/></td>
     </tr>   
   </table>
+    <h3> Deseja ver o que ando estudando? 👀 Acesse meu <a href="https://codepen.io/jamilligioielli">CodePen</a>!</h3>
 </center>  
 
+<div> 
+
+</div>
