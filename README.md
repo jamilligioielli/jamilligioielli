@@ -35,10 +35,10 @@
 ## 🖥️ My stats 
   <div align="center" style="display: inline_block">
     <a href="https://github.com/jamilligioielli">
-       <img height="200em"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilligioielli&hide=hack&layout=compact&theme=tokyonight" />
+       <img  height="190em"align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilligioielli&hide=hack&layout=compact&theme=tokyonight" />
     </a>
      <a href="https://github.com/jamilligioielli">
-        <img height="200em" align="center"  src="https://github-readme-stats.vercel.app/api?username=jamilligioielli&theme=tokyonight&show_icons=true"/>
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jamilligioielli&theme=tokyonight&show_icons=true"/>
       </a>
       </div>  
 
