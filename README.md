@@ -38,7 +38,7 @@
        <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilligioielli&hide=hack&layout=compact&theme=tokyonight" />
     </a>
      <a href="https://github.com/jamilligioielli">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jamilligioielli&theme=tokyonight&show_icons=true"/>
+        <img  align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=jamilligioielli&theme=tokyonight&show_icons=true"/>
       </a>
       </div>  
 
