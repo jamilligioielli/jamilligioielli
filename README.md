@@ -2,7 +2,7 @@
 ![capa github](https://github.com/jamilligioielli/jamilligioielli/blob/main/github_profile.png)  
 
 <p align="justify" style="display: inline_block"> <i> It's really nice to see you here 👋😊! I'm sure we can talk about nice things and share our ideas between coffee cups ☕☕ </i> </p>
-<p align="justify" style="display: inline_block"> <i> I'm 17 years old and I'm currently an I.T. student at IFSP - where I discovered my passion for computer science. My main interests are around frontend web development, but I'm always trying to improve my knowledge by attending courses and creating new projects (high curiosity levels forbid me to avoid it 😁). Nevertheless, for my future aims, I also intend to get into college to study Information of Systems🧠 </i> </p>
+<p align="justify" style="display: inline_block"> <i> I'm a young lady who is currently an I.T. student at IFSP - where I discovered my passion for computer science. My main interests are around fullstack web development, but I'm always trying to improve my knowledge by attending courses and creating new projects (high curiosity levels forbid me to avoid it 😁), so I'm also into studying mobile development (during my internship program at IBM) as well. Nevertheless, for my future aims, I intend to get into college to study Information of Systems🧠 </i> </p>
   
 ## 🌐 How to reach me  
   <div style="display: inline_block">
@@ -22,11 +22,10 @@
 ## 📚 What I am learning  
 
   <div style="display: inline_block"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     
   </div>
   
