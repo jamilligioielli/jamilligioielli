@@ -1,5 +1,5 @@
 <h1 align="justify" style="display: inline_block"> <i> It's really nice to see you here 👋😊!</i> </h1>
-<p align="justify" style="display: inline_block"> <i> I'm a young lady who is currently an I.T. student at FIAP, and a former IFSP'S Information Systems Technician. My main interests are around web development, but I'm always trying to improve my knowledge by attending courses and creating new projects (high curiosity levels forbid me to avoid it 😁), which is required since I'm working as a Cloud Web Applications Developer at IBM. </i> </p>
+<p align="justify" style="display: inline_block"> <i> I'm a young lady who is currently an I.T. student at FIAP, and a former IFSP's Information Systems Technician. My main interests are around web development, but I'm always trying to improve my knowledge by attending courses and creating new projects (high curiosity levels forbid me to avoid it 😁), which is required since I'm working as a Cloud Web Application Developer at IBM. </i> </p>
   
 ## 🌐 How to reach me  
   <div style="display: inline_block">
